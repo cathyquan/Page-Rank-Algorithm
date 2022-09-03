@@ -27,5 +27,5 @@ OUTPUT:
     gmail.com 0.20
     google.com 0.10
     maps.com 0.30
-    ufl.edu 0.20
+    ufl.edu 0.20 
 
