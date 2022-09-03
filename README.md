@@ -9,6 +9,7 @@ INPUT:
   - website links
   
   ex:
+  
     7 2
     google.com gmail.com
     google.com maps.com
@@ -23,6 +24,7 @@ OUTPUT:
   - respective rank of each website
   
   ex:
+  
     facebook.com 0.20
     gmail.com 0.20
     google.com 0.10
